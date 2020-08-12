@@ -1,0 +1,4 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/write-manifests.schema.json",
+  "cdnBasePath": "https://gtlawhub.sharepoint.com/sites/developersite/CDN%20Public/cswp-apolloviewer"
+}

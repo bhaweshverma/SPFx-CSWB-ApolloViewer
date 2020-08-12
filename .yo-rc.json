@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.10.0",
+    "libraryName": "cswp-apolloviewer",
+    "libraryId": "1f6809ac-d7d0-4043-a3aa-4bb5bff2c8be",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

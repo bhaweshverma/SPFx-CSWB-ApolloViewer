@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cswp-apolloviewer-client-side-solution",
+    "id": "1f6809ac-d7d0-4043-a3aa-4bb5bff2c8be",
+    "version": "1.0.2.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/cswp-apolloviewer.sppkg"
+  }
+}
