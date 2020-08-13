@@ -54,7 +54,7 @@ export default class NasaApolloMissionViewerWebPart extends BaseClientSideWebPar
     console.table(this.selectedMission.crew);
     console.info(webpartName,'Logging with web part prefix');
     //console.warn('render().Console','This is for warn');
-    //console.error('render().Console','This is for error');
+    //console.error('render().Console','This is for error ');
 
     
     this.domElement.innerHTML = `
